@@ -1,0 +1,13 @@
+C:\Users\Dev\source\repos\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.exe
+C:\Users\Dev\source\repos\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.deps.json
+C:\Users\Dev\source\repos\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.runtimeconfig.json
+C:\Users\Dev\source\repos\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.dll
+C:\Users\Dev\source\repos\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.pdb
+C:\Users\Dev\source\repos\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.AssemblyInfo.cs
+C:\Users\Dev\source\repos\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.dll
+C:\Users\Dev\source\repos\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.pdb
+C:\Users\Dev\source\repos\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.genruntimeconfig.cache
